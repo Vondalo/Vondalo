@@ -1,91 +1,18 @@
-<!-- HEADER BANNER -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0f2027,100:203a43%26height%3D300%26section%3Dheader%26text%3DPilot%2520%257C%2520Developer%2520%257C%2520Creator%26fontSize%3D50%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DCleared%2520for%2520Takeoff%26descAlignY%3D55%26descAlign%3D50" width="100%"/>
-</div>
-
-<div align="center">
-
-✈️ Welcome to the Flight Deck
-
-</div>
-
-📡 Flight Status: Cruising Altitude
-
-I am a collegiate developer bridging the gap between physical hardware and virtual worlds. When I'm not coding IoT solutions or building game environments, I'm likely at 30,000 feet in a flight simulator.
-
-CURRENT MISSION
-
-SIDE QUESTS
-
-FLIGHT LOG (Hobbies)
-
-🏠 [RoomSense]
+# 💫 About Me:
+🔭 I’m currently working on<br>Roomsense ( IoT Device)<br><br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Qzamd6dQzK) 
 
-Building a next-gen IoT device to smart-manage room environments.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vondalo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vondalo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vondalo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🎮 Game Dev
+---
+[![](https://visitcount.itsvg.in/api?id=Vondalo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-Crafting immersive levels in Unity & Unreal Engine.
-
-🛫 Sim Pilot
-
-
-
-Mastering IFR approaches in MSFS & X-Plane.
-
-🛠️ The Control Panel (Tech Stack)
-
-<div align="center">
-
-Core Avionics (Languages)
-
-Fuselage (Frontend & Mobile)
-
-
-
-
-
-Simulation Engine (Game Dev)
-
-Black Box (Data & Backend)
-
-
-
-
-
-</div>
-
-📊 Telemetry Data
-
-<div align="center">
-
-
-
-
-
-<!-- Top Row: Stats & Streak -->
-<a href="https://www.google.com/search?q=https://github.com/Vondalo">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVondalo%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue" height="160" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Vondalo">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVondalo%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" height="160" />
-</a>
-
-
-
-
-
-
-<!-- Bottom Row: Graph -->
-
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DVondalo%26bg_color%3D1a1b27%26color%3D7aa2f7%26line%3D7aa2f7%26point%3Dc0caf5%26area%3Dtrue%26hide_border%3Dtrue" width="100%"/>
-</div>
-
-<div align="center">
-<i>"Once you have tasted flight, you will forever walk the earth with your eyes turned skyward."</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
